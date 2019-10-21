@@ -1,7 +1,7 @@
 import praw
 import requests
 client = 'your client id'
-client_Secret = "ypur client secret"
+client_Secret = "your client secret"
 url = []
 url_title = []
 url_parsed = []
